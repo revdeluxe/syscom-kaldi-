@@ -1,0 +1,5 @@
+create a simple bash output
+create ui using [lua,c/c++,python,qt5]
+create sched for this to materialize.
+assume audience with the veterans for ease.
+this is a stupid idea, and i love it.
